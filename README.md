@@ -2,7 +2,7 @@
 A repo for my dapp
 
 
-This is a dapp that sends ethereum from one address to the other.
+This is a dapp that sends ethereum from one address to the other. Tech stack used includes Javascript, React.js, Node.js, Solidity, Hardhat, Alchemy and Tailwind css.
 
 It is configured to the Ropsten test network.
 <img width="1309" alt="Screen Shot 2022-05-05 at 11 45 18 PM" src="https://user-images.githubusercontent.com/47164883/167068656-ba20d792-f6ae-4a9c-bfb2-9d7f1bc80340.png">
